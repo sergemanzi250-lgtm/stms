@@ -1,0 +1,10 @@
+{
+  "/dashboard/school-admin/page": "app/dashboard/school-admin/page.js",
+  "/dashboard/school-admin/add-teacher/page": "app/dashboard/school-admin/add-teacher/page.js",
+  "/dashboard/super-admin/page": "app/dashboard/super-admin/page.js",
+  "/dashboard/school-admin/generate-timetables/page": "app/dashboard/school-admin/generate-timetables/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/dashboard/school-admin/time-slots/page": "app/dashboard/school-admin/time-slots/page.js",
+  "/api/time-slots/route": "app/api/time-slots/route.js",
+  "/api/schools/route": "app/api/schools/route.js"
+}
